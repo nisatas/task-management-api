@@ -1,7 +1,6 @@
 # Task Management API
 
 JWT authentication destekli basit bir **Task Management API** projesidir.  
-Bu proje, backend developer intern case çalışması kapsamında geliştirilmiştir.
 
 ---
 
